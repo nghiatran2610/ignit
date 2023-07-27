@@ -21,10 +21,10 @@
           "name": "Barcode"
         },
         "position": {
-          "height": 257,
-          "width": 430,
-          "x": 74,
-          "y": 49
+          "height": 320,
+          "width": 445,
+          "x": 228,
+          "y": 408
         },
         "props": {
           "type": "qrcode"
