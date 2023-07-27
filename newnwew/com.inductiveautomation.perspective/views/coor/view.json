@@ -6,15 +6,72 @@
     "children": [
       {
         "meta": {
-          "name": "AlarmStatusTable"
+          "name": "SimpleGauge"
         },
         "position": {
-          "height": 571,
-          "width": 773,
-          "x": 13.5,
-          "y": 9
+          "height": 175,
+          "width": 300,
+          "x": 145,
+          "y": 379.5
         },
-        "type": "ia.display.alarmstatustable"
+        "props": {
+          "style": {
+            "classes": []
+          }
+        },
+        "type": "ia.chart.simple-gauge"
+      },
+      {
+        "meta": {
+          "name": "Gauge"
+        },
+        "position": {
+          "height": 175,
+          "width": 300,
+          "x": 160,
+          "y": 123
+        },
+        "props": {
+          "backgroundColor": "",
+          "innerAxis": {
+            "data": "secondaryValue",
+            "maxValue": 80,
+            "percentRadius": 85,
+            "show": false,
+            "width": 1
+          },
+          "outerAxis": {
+            "data": "value",
+            "maxValue": 120,
+            "percentRadius": 100,
+            "ranges": [
+              {
+                "color": "#77B6D8",
+                "end": 80,
+                "start": 0,
+                "width": 8
+              },
+              {
+                "color": "#6E94D7",
+                "end": 105,
+                "start": 80,
+                "width": 12
+              },
+              {
+                "color": "#7A6BD5",
+                "end": 120,
+                "start": 105,
+                "width": 16
+              }
+            ],
+            "show": true,
+            "width": 1
+          },
+          "style": {
+            "classes": []
+          }
+        },
+        "type": "ia.chart.gauge"
       }
     ],
     "meta": {
