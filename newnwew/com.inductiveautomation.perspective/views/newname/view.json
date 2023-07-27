@@ -18,18 +18,6 @@
       },
       {
         "meta": {
-          "name": "LedDisplay"
-        },
-        "position": {
-          "height": 130,
-          "width": 254,
-          "x": 302,
-          "y": 393
-        },
-        "type": "ia.display.led-display"
-      },
-      {
-        "meta": {
           "name": "Barcode"
         },
         "position": {
