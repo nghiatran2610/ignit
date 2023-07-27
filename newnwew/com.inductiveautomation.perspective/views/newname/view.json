@@ -47,6 +47,21 @@
           "title": "Favorite Pie Flavors"
         },
         "type": "ia.chart.pie"
+      },
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "height": 121,
+          "width": 155,
+          "x": 322.5,
+          "y": 71
+        },
+        "props": {
+          "path": "material/insert_emoticon"
+        },
+        "type": "ia.display.icon"
       }
     ],
     "meta": {
