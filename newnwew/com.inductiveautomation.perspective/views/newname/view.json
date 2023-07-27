@@ -18,21 +18,27 @@
       },
       {
         "meta": {
-          "name": "Barcode"
+          "name": "Image"
         },
         "position": {
-          "height": 175,
-          "rotate": {
-            "anchor": "-17% -47%"
-          },
-          "width": 200,
-          "x": 500,
-          "y": 138.5
+          "height": 100,
+          "width": 100,
+          "x": 328,
+          "y": 378
         },
-        "props": {
-          "type": "qrcode"
+        "type": "ia.display.image"
+      },
+      {
+        "meta": {
+          "name": "LedDisplay"
         },
-        "type": "ia.display.barcode"
+        "position": {
+          "height": 130,
+          "width": 254,
+          "x": 302,
+          "y": 393
+        },
+        "type": "ia.display.led-display"
       }
     ],
     "meta": {
