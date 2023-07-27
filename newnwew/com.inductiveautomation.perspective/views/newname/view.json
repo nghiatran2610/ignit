@@ -6,25 +6,13 @@
     "children": [
       {
         "meta": {
-          "name": "Image"
-        },
-        "position": {
-          "height": 100,
-          "width": 100,
-          "x": 328,
-          "y": 378
-        },
-        "type": "ia.display.image"
-      },
-      {
-        "meta": {
           "name": "Icon"
         },
         "position": {
-          "height": 350,
-          "width": 714,
-          "x": -54,
-          "y": -20
+          "height": 122,
+          "width": 365,
+          "x": 73,
+          "y": 415
         },
         "props": {
           "path": "material/insert_emoticon"
