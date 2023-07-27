@@ -18,28 +18,13 @@
       },
       {
         "meta": {
-          "name": "Barcode"
-        },
-        "position": {
-          "height": 260,
-          "width": 445,
-          "x": 228,
-          "y": 44
-        },
-        "props": {
-          "type": "qrcode"
-        },
-        "type": "ia.display.barcode"
-      },
-      {
-        "meta": {
           "name": "Icon"
         },
         "position": {
-          "height": 84,
-          "width": 518,
-          "x": 40,
-          "y": 364
+          "height": 350,
+          "width": 714,
+          "x": -54,
+          "y": -20
         },
         "props": {
           "path": "material/insert_emoticon"

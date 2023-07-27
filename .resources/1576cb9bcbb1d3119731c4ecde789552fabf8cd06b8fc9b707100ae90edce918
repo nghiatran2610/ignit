@@ -21,15 +21,30 @@
           "name": "Barcode"
         },
         "position": {
-          "height": 320,
+          "height": 260,
           "width": 445,
           "x": 228,
-          "y": 408
+          "y": 44
         },
         "props": {
           "type": "qrcode"
         },
         "type": "ia.display.barcode"
+      },
+      {
+        "meta": {
+          "name": "Icon"
+        },
+        "position": {
+          "height": 84,
+          "width": 518,
+          "x": 40,
+          "y": 364
+        },
+        "props": {
+          "path": "material/insert_emoticon"
+        },
+        "type": "ia.display.icon"
       }
     ],
     "meta": {
