@@ -1,0 +1,497 @@
+{
+  "name": "",
+  "tagType": "Provider",
+  "tags": [
+    {
+      "name": "Stations",
+      "tagType": "Folder",
+      "tags": [
+        {
+          "name": "Station 4",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 4
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 19",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 19
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 13",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 13
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 5",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 5
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 20",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 20
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 7",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 7
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 17",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 17
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 11",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 11
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 1",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 1
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 8",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 8
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 2",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 2
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 14",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 14
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 3",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 3
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 6",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 6
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 9",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 9
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 12",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 12
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 10",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 10
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 15",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 15
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 16",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 16
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        },
+        {
+          "name": "Station 18",
+          "typeId": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 18
+            }
+          },
+          "tagType": "UdtInstance",
+          "tags": [
+            {
+              "name": "Flow Rate",
+              "tagType": "AtomicTag"
+            },
+            {
+              "name": "State",
+              "tagType": "AtomicTag"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "_types_",
+      "tagType": "Folder",
+      "tags": [
+        {
+          "name": "Station",
+          "parameters": {
+            "StationNum": {
+              "dataType": "Integer",
+              "value": 2
+            }
+          },
+          "tagType": "UdtType",
+          "tags": [
+            {
+              "opcItemPath": {
+                "bindType": "parameter",
+                "binding": "ns\u003d1;s\u003d[GoldSim]N7/N7:{StationNum+100}"
+              },
+              "valueSource": "opc",
+              "dataType": "Int2",
+              "historyProvider": "DB",
+              "alarms": [
+                {
+                  "setpointA": 2.0,
+                  "activePipeline": "ACMEInc/FaultedAlarm",
+                  "name": "Faulted",
+                  "displayPath": {
+                    "bindType": "Expression",
+                    "value": "\u0027Station \u0027+{StationNum}+\u0027 Faulted\u0027"
+                  }
+                }
+              ],
+              "name": "State",
+              "historyEnabled": true,
+              "tagType": "AtomicTag",
+              "opcServer": "Ignition OPC UA Server"
+            },
+            {
+              "opcItemPath": {
+                "bindType": "parameter",
+                "binding": "ns\u003d1;s\u003d[GoldSim]F8/F8:{StationNum+100}"
+              },
+              "valueSource": "opc",
+              "dataType": "Float8",
+              "historyProvider": "DB",
+              "alarms": [
+                {
+                  "mode": "BelowValue",
+                  "name": "Reverse Flow Rate",
+                  "displayPath": {
+                    "bindType": "Expression",
+                    "value": "\u0027Station \u0027+{StationNum}+ \u0027 Reverse Flow Rate\u0027"
+                  }
+                }
+              ],
+              "name": "Flow Rate",
+              "historyEnabled": true,
+              "tagType": "AtomicTag",
+              "opcServer": "Ignition OPC UA Server"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
