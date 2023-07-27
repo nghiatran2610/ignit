@@ -9,10 +9,10 @@
           "name": "Icon"
         },
         "position": {
-          "height": 233,
-          "width": 442,
-          "x": 349,
-          "y": 570
+          "height": 388,
+          "width": 718,
+          "x": 73,
+          "y": 415
         },
         "props": {
           "path": "material/insert_emoticon"
