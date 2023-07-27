@@ -6,18 +6,6 @@
     "children": [
       {
         "meta": {
-          "name": "Progress"
-        },
-        "position": {
-          "height": 20,
-          "width": 200,
-          "x": 291,
-          "y": 307
-        },
-        "type": "ia.display.progress"
-      },
-      {
-        "meta": {
           "name": "Image"
         },
         "position": {
