@@ -33,21 +33,6 @@
           "type": "qrcode"
         },
         "type": "ia.display.barcode"
-      },
-      {
-        "meta": {
-          "name": "Icon"
-        },
-        "position": {
-          "height": 309,
-          "width": 339,
-          "x": 150,
-          "y": 286
-        },
-        "props": {
-          "path": "material/insert_emoticon"
-        },
-        "type": "ia.display.icon"
       }
     ],
     "meta": {
