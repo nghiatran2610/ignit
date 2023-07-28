@@ -18,18 +18,6 @@
       },
       {
         "meta": {
-          "name": "LedDisplay"
-        },
-        "position": {
-          "height": 32,
-          "width": 128,
-          "x": 422,
-          "y": 214.5
-        },
-        "type": "ia.display.led-display"
-      },
-      {
-        "meta": {
           "name": "CylindricalTank"
         },
         "position": {
@@ -37,6 +25,18 @@
           "width": 136,
           "x": 194,
           "y": 178
+        },
+        "type": "ia.display.cylindrical-tank"
+      },
+      {
+        "meta": {
+          "name": "CylindricalTank_0"
+        },
+        "position": {
+          "height": 160,
+          "width": 136,
+          "x": 394,
+          "y": 192
         },
         "type": "ia.display.cylindrical-tank"
       }
