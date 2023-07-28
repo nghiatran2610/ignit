@@ -27,6 +27,18 @@
           "y": 214.5
         },
         "type": "ia.display.led-display"
+      },
+      {
+        "meta": {
+          "name": "CylindricalTank"
+        },
+        "position": {
+          "height": 160,
+          "width": 136,
+          "x": 194,
+          "y": 178
+        },
+        "type": "ia.display.cylindrical-tank"
       }
     ],
     "meta": {
