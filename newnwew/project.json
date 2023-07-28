@@ -1,6 +1,7 @@
 {
   "title": "sss",
   "description": "dasdas",
+  "parent": "",
   "enabled": true,
   "inheritable": false
 }
