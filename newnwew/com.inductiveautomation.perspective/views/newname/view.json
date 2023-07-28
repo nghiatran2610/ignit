@@ -27,18 +27,6 @@
           "y": 178
         },
         "type": "ia.display.cylindrical-tank"
-      },
-      {
-        "meta": {
-          "name": "CylindricalTank_0"
-        },
-        "position": {
-          "height": 160,
-          "width": 136,
-          "x": 394,
-          "y": 192
-        },
-        "type": "ia.display.cylindrical-tank"
       }
     ],
     "meta": {

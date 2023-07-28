@@ -18,18 +18,6 @@
       },
       {
         "meta": {
-          "name": "LedDisplay"
-        },
-        "position": {
-          "height": 32,
-          "width": 128,
-          "x": 422,
-          "y": 214.5
-        },
-        "type": "ia.display.led-display"
-      },
-      {
-        "meta": {
           "name": "CylindricalTank"
         },
         "position": {
