@@ -33,23 +33,6 @@
           "path": "material/insert_emoticon"
         },
         "type": "ia.display.icon"
-      },
-      {
-        "meta": {
-          "name": "SimpleGauge"
-        },
-        "position": {
-          "height": 175,
-          "width": 300,
-          "x": 146,
-          "y": 352
-        },
-        "props": {
-          "style": {
-            "classes": []
-          }
-        },
-        "type": "ia.chart.simple-gauge"
       }
     ],
     "meta": {
